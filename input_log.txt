@@ -1,0 +1,26 @@
+Customer0,46,electricity
+Customer1,78,telecommunication
+Customer15,203,gas
+Customer3,226,cableTV
+Customer2,147,cableTV
+Customer13,142,electricity
+Customer10,212,water
+Customer11,129,electricity
+Customer16,66,gas
+Customer6,127,cableTV
+Customer17,162,telecommunication
+Customer7,181,electricity
+Customer18,184,cableTV
+Customer8,26,gas
+Customer19,203,gas
+Customer9,123,telecommunication
+Customer12,97,cableTV
+Customer14,189,water
+Customer5,120,cableTV
+Customer4,77,gas
+All payments are completed.
+CableTV:901
+Electricity:498
+Gas:575
+Telecommunication:363
+Water:401
