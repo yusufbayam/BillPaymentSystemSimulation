@@ -9,6 +9,6 @@ Output of program is a log file where each line has payment info for one custome
 How to run :
 1. Go to directory of application files.
 2. Run make command on terminal.
-3. Run application by "./simualation inputfile"
+3. Run application by "./simulation inputfile"
 
 Output file is named inputfile_log.txt
